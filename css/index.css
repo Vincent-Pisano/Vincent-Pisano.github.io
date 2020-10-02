@@ -1,0 +1,16 @@
+.barre-todo {
+    position: absolute;
+    left: 0rem;
+    top: 0%;
+    width: 4px;
+    height: 100%;
+    border-radius: 0.3rem;
+    opacity: .6;
+    background-color: #ff4000;
+}
+
+nav > div > div > div > .fixed-top
+{
+    right: auto;
+    bottom:0;
+}
